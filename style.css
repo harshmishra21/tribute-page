@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #e4cfa5;
+}
+
+.banner {
+    background: #f49300; /* Indian cricket team color */
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.banner-image {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+.bio, .achievements, .quotes {
+    background: #ffffff;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #17bebe; /* Indian cricket team color */
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+blockquote {
+    border-left: 4px solid #007A33; /* Indian cricket team color */
+    padding-left: 20px;
+    margin: 10px 0;
+    color: #555;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #5252ed; /* Indian cricket team color */
+    color: #ffffff;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
